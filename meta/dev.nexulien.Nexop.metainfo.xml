@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component type="desktop-application">
   <!--Created with jdAppStreamEdit 7.1-->
-  <id>dev.vencord.Vesktop</id>
-  <name>Vesktop</name>
-  <summary>Snappier Discord app with Vencord</summary>
-  <developer_name>Vencord Contributors</developer_name>
-  <launchable type="desktop-id">dev.vencord.Vesktop.desktop</launchable>
+  <id>dev.nexulien.Nexop</id>
+  <name>Nexop</name>
+  <summary>Snappier Discord app with Nexulien</summary>
+  <developer_name>Vencord & Nexulien Contributors</developer_name>
+  <launchable type="desktop-id">dev.nexulien.Nexop.desktop</launchable>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0</project_license>
-  <project_group>Vencord</project_group>
+  <project_group>Nexulien</project_group>
   <description>
-    <p>Vesktop is a cross platform desktop app aiming to give you a snappier Discord experience with Vencord pre-installed.</p>
-    <p>Vesktop comes bundled with Venmic, a purpose-built library to provide functioning audio screenshare.</p>
+    <p>Nexop is a cross platform desktop app aiming to give you a snappier Discord experience with Vencord pre-installed.</p>
+    <p>Nexop comes bundled with Venmic, a purpose-built library to provide functioning audio screenshare.</p>
   </description>
   <screenshots>
     <screenshot type="default">
@@ -233,6 +233,8 @@
     <keyword>Discord</keyword>
     <keyword>Vencord</keyword>
     <keyword>Vesktop</keyword>
+    <keyword>Nexulien</keyword>
+    <keyword>Nexop</keyword>
     <keyword>Privacy</keyword>
     <keyword>Mod</keyword>
   </keywords>

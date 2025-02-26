@@ -184,10 +184,5 @@
                 "--rpm-rpmbuild-define=_build_id_links none"
             ]
         }
-    },
-    "pnpm": {
-        "patchedDependencies": {
-            "arrpc@3.5.0": "patches/arrpc@3.5.0.patch"
-        }
     }
 }
